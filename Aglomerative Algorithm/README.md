@@ -1,0 +1,2 @@
+jerarquico mas costota
+vector
